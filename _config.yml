@@ -1,11 +1,11 @@
 # Site settings
 author: Aziz Nasirov
-title: 
+title: Programming & Project Journey
 header-img: img/home-bg.png
 email: nasirovaziz@yahoo.com
 copyright_name: Aziz Nasirov
 description: > # this means to ignore newlines until "baseurl:"
-  
+  learning szn
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  btkelements
